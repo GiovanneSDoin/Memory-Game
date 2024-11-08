@@ -3,8 +3,8 @@ const grid = document.querySelector('.grid');
 const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
 const characters = [
-    'abelha', 'aguaViva', 'bullShark', 'crocodilo', 'snake1',
-    'snake2', 'snake3', 'octopus', 'jellyfish', 'spider'
+    'abelha', 'aguaViva', 'bullShark', 'crocodilo', 'snake',
+    'coala', 'ornitorrinco', 'octopus', 'diabo-da-tasmania', 'canguru'
 ];
 
 // Variáveis para cartas selecionadas
